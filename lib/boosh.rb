@@ -1,2 +1,2 @@
-class Boosh
-end
+require 'boosh/item'
+require 'boosh/version'
