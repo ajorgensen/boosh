@@ -1,0 +1,2 @@
+class Boosh
+end
